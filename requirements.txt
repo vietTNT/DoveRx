@@ -24,3 +24,5 @@ tzdata==2025.2
 urllib3==2.5.0
 gunicorn
 python-dotenv
+dj-database-url
+psycopg2-binary
