@@ -180,6 +180,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:8000",
     "https://accounts.google.com",
     "https://doverx.vercel.app",
+    "https://doverx-backend.onrender.com",
 ]
 CORS_ALLOW_CREDENTIALS = True
 MEDIA_URL = '/media/'
